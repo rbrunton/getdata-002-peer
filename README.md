@@ -16,5 +16,5 @@ The assignment is to create a tidy dataset from data pulled from the UCI Machine
 
 ##Running
 
-The included script, "run_analysis.R", requires the UCI HAR Dataset to be present and set as the current working directory (use setwd within R if this is not the case). As a result of running the script, the tidy dataset will be written to disk as the file "tidy_data.csv" in the working directory.
+The included script, "run_analysis.R", requires the UCI HAR Dataset to be present and set as the current working directory (use setwd within R if this is not the case). As a result of running the script, the tidy dataset will be written to disk as the file "tidy_data.txt" in the working directory.
 
